@@ -19,8 +19,8 @@ The contract employs three primary mechanisms for error handling:
 
 - **Constructor**: Initializes the contract owner to the address that deploys the contract.
 - **Variables**:
-  - `name`: Public string variable representing the token name ("milan").
-  - `symbol`: Public string variable representing the token symbol ("mil").
+  - `name`: Public string variable representing the token name ("NileshCoin").
+  - `symbol`: Public string variable representing the token symbol ("NIL").
   - `totalSupply`: Public uint variable representing the total supply of tokens (initially 0).
   - `owner`: Public address variable storing the contract owner's address.
   - `balances`: Public mapping that stores the balance of each address.
